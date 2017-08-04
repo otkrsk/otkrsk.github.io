@@ -7,14 +7,14 @@
 
 # Site settings
 title: OTKRSK
-email: buzzmeh@otakrosak.com
+email: nicholas[dot]nuing[at]gmail[dot]com
 description: > # this means to ignore newlines until "baseurl:"
   The cat was kind of sick of his routine. Up until today, everyday was
-  the same. "How could I change it?", he asked himself.
+  the same. "Is this all there is to life?", he asked himself.
 
   He was deeply disturbed.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://otakrosak.com" # the base hostname & protocol for your site
+url: "http://otkrsk.github.io/" # the base hostname & protocol for your site
 twitter_username: otkrsk
 github_username:  otkrsk
 
